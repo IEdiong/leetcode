@@ -1,4 +1,5 @@
 /**
+ * 2090. K Radius Subarray Averages (Medium)
  * @param {number[]} nums
  * @param {number} k
  * @return {number[]}
