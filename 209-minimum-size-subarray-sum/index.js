@@ -25,3 +25,5 @@ var minSubArrayLen = function (target, nums) {
   if (minLen === Number.MAX_SAFE_INTEGER) return 0;
   return minLen;
 };
+
+console.log(minSubArrayLen(7, [2,3,1,2,4,3])); // Output: 2
